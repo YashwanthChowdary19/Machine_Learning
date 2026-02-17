@@ -1,0 +1,12 @@
+Employee_ID,Experience_Level,Education,Performance,Promotion
+101,Beginner,High School,Low,No
+102,Intermediate,Bachelor,Medium,No
+103,Advanced,Master,High,Yes
+104,Beginner,Bachelor,Medium,No
+105,Advanced,PhD,High,Yes
+106,Intermediate,Master,Medium,Yes
+107,Beginner,High School,Low,No
+108,Advanced,PhD,High,Yes
+109,Intermediate,Bachelor,Medium,No
+110,Advanced,Master,High,Yes
+
