@@ -1,0 +1,9 @@
+Student_ID,Gender,City,Course,Purchased
+101,Male,Hyderabad,Python,Yes
+102,Female,Chennai,Java,No
+103,Male,Bangalore,Python,Yes
+104,Female,Hyderabad,C++,No
+105,Male,Chennai,Java,Yes
+106,Female,Bangalore,Python,No
+107,Male,Hyderabad,C++,Yes
+108,Female,Chennai,Python,No
