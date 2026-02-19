@@ -1,0 +1,11 @@
+Candidate_ID,Age,Gender,Education,Experience_Level,City,Expected_Salary,Interview_Score,Selected
+C001,25,Male,Bachelor,Beginner,Hyderabad,400000,75,Yes
+C002,30,Female,Master,Intermediate,Chennai,600000,82,Yes
+C003,28,Male,Bachelor,Beginner,Bangalore,450000,68,No
+C004,,Female,PhD,Advanced,Hyderabad,900000,91,Yes
+C005,35,Male,Master,Intermediate,Pune,700000,85,Yes
+C006,27,,Bachelor,Beginner,Chennai,420000,72,No
+C007,32,Female,PhD,Advanced,Bangalore,950000,95,Yes
+C008,,Male,Master,Intermediate,Hyderabad,,78,Yes
+C009,26,Female,Bachelor,Beginner,Pune,390000,65,No
+C010,31,Male,PhD,Advanced,Chennai,880000,,Yes
